@@ -1,0 +1,12 @@
+{
+  "name": "music_player",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "http.js",
+  "scripts": {
+    "start": "node http.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
